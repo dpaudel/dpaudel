@@ -19,7 +19,7 @@
 
 I develop scalable computational frameworks to decode complex biological systems, specializing in:
 
-- **Genome Analysis** — assembly, annotation, and WGS
+- **NGS Analysis** — assembly, annotation, WGS, microbiome
 - **Multi-omics Integration** — genomics, transcriptomics, and epigenomics
 - **Pipeline Engineering** — production-grade workflows for reproducible science
 - **Computational Methods** — machine learning and statistical modeling for biological discovery
