@@ -69,8 +69,6 @@ I'm always interested in collaborations, consulting opportunities, or discussion
 
 <div align="center">
 
-*"Making sense of biology using computation and using computation to predict biology."*
-
-⭐ *Star repositories you find useful • Fork to build upon*
+*"I mess around with A's T's G's and C's all day!"*
 
 </div>
