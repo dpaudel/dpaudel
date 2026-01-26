@@ -19,10 +19,10 @@
 
 I develop scalable computational frameworks to decode complex biological systems, specializing in:
 
-- **NGS Analysis** — assembly, annotation, WGS, microbiome
-- **Multi-omics Integration** — genomics, transcriptomics, and epigenomics
-- **Pipeline Engineering** — production-grade workflows for reproducible science
-- **Machine Learning** — computational methods and statistical modeling for biological discovery
+- **NGS Analysis** - assembly, annotation, WGS, microbiome
+- **Multi-omics Integration** - genomics, transcriptomics, and epigenomics
+- **Pipeline Engineering** - production-grade workflows for reproducible science
+- **Machine Learning** - computational methods and statistical modeling for biological discovery
 
 ---
 
@@ -31,7 +31,7 @@ I develop scalable computational frameworks to decode complex biological systems
 Languages        R  •  Python  •  Bash  
 Workflows        Nextflow  •  Snakemake  
 Analysis         Bioconductor  •  pandas  •  NumPy  •  SciPy  •  scikit-learn  •  TensorFlow
-Visualization    ggplot2  •  matplotlib  •  seaborn  •  plotly
+Visualization    ggplot2  •  Shiny  •  seaborn  •  plotly  •  matplotlib
 Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Azure
 ```
 
@@ -47,11 +47,11 @@ Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Az
 
 ## 🔖 Featured Work
 
-**[BLAST Circos Plot](https://devomiks.shinyapps.io/BlastCircos/)** — Shiny App to create Circos Plots from BLAST output
+**[BLAST Circos Plot](https://devomiks.shinyapps.io/BlastCircos/)** - Shiny App to create Circos Plots from BLAST output
 
-**[Extract HEX color code from image](https://devomiks.shinyapps.io/Extract-Hex-Color-Codes-From-Image/)** — Shiny App to extract HEX color code from a given image  
+**[Extract HEX color code from image](https://devomiks.shinyapps.io/Extract-Hex-Color-Codes-From-Image/)** - Shiny App to extract HEX color code from a given image  
 
-**[Free QRcode generator](https://devomiks.shinyapps.io/QRcode/)** — QR code generator
+**[Free QRcode generator](https://devomiks.shinyapps.io/QRcode/)** - Generate QRcodes for websites
 
 **[Child Growth Percentile Calculator](https://devomiks.shinyapps.io/BabyPercentileChecker/)** - Check child's height and weight percentile (CDC and WHO).
 
