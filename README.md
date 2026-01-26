@@ -22,14 +22,14 @@ I develop scalable computational frameworks to decode complex biological systems
 - **NGS Analysis** — assembly, annotation, WGS, microbiome
 - **Multi-omics Integration** — genomics, transcriptomics, and epigenomics
 - **Pipeline Engineering** — production-grade workflows for reproducible science
-- **Computational Methods** — machine learning and statistical modeling for biological discovery
+- **Machine Learning** — computational methods and statistical modeling for biological discovery
 
 ---
 
 ## 🛠️ Technical Expertise
 ```text
-Languages        R  •  Python  •  Bash  •  SQL
-Workflows        Nextflow  •  Snakemake  •  WDL
+Languages        R  •  Python  •  Bash  
+Workflows        Nextflow  •  Snakemake  
 Analysis         Bioconductor  •  pandas  •  NumPy  •  SciPy  •  scikit-learn  •  TensorFlow
 Visualization    ggplot2  •  matplotlib  •  seaborn  •  plotly
 Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Azure
