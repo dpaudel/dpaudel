@@ -23,6 +23,7 @@ I develop scalable computational frameworks to decode complex biological systems
 - **Multi-omics Integration** - genomics, transcriptomics, and epigenomics
 - **Pipeline Engineering** - production-grade workflows for reproducible science
 - **Machine Learning** - computational methods and statistical modeling for biological discovery
+- **Platforms** - Illumina, Oxford Nanopore Technology, PacBio
 
 ---
 
