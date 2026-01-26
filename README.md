@@ -30,7 +30,7 @@ I develop scalable computational frameworks to decode complex biological systems
 ```text
 Languages        R  •  Python  •  Bash  •  SQL
 Workflows        Nextflow  •  Snakemake  •  WDL
-Analysis         Bioconductor  •  pandas  •  NumPy  •  SciPy  •  scikit-learn
+Analysis         Bioconductor  •  pandas  •  NumPy  •  SciPy  •  scikit-learn  •  TensorFlow
 Visualization    ggplot2  •  matplotlib  •  seaborn  •  plotly
 Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Azure
 ```
@@ -47,10 +47,12 @@ Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Az
 
 ## 🔖 Featured Work
 
-<!-- Replace with your actual pinned repositories -->
 **[BLAST Circos Plot](https://devomiks.shinyapps.io/BlastCircos/)** — Shiny App to create Circos Plots from BLAST output
+
 **[Extract HEX color code from image](https://devomiks.shinyapps.io/Extract-Hex-Color-Codes-From-Image/)** — Shiny App to extract HEX color code from a given image  
+
 **[Free QRcode generator](https://devomiks.shinyapps.io/QRcode/)** — QR code generator
+
 **[Child Growth Percentile Calculator](https://devomiks.shinyapps.io/BabyPercentileChecker/)** - Check child's height and weight percentile (CDC and WHO).
 
 ---
@@ -64,7 +66,7 @@ I'm always interested in collaborations, consulting opportunities, or discussion
 
 <div align="center">
 
-*"Making sense of biology using computation."*
+*"Making sense of biology using computation and using computation to predict biology."*
 
 ⭐ *Star repositories you find useful • Fork to build upon*
 
