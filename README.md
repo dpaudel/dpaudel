@@ -54,7 +54,7 @@ Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Az
 
 **[Free QRcode generator](https://devomiks.shinyapps.io/QRcode/)** - Generate QRcodes for websites
 
-**[Child Growth Percentile Calculator](https://devomiks.shinyapps.io/BabyPercentileChecker/)** - Check child's height and weight percentile (CDC and WHO)
+**[Child Growth Percentile Calculator](https://devomics.shinyapps.io/BabyPercentileChecker/)** - Check child's height and weight percentile (CDC and WHO)
 
 **[dpaudelR: R-package](https://github.com/dpaudel/dpaudelR/)** - R package for commonly used R functions
 
