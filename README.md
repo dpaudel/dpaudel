@@ -47,6 +47,7 @@ Infrastructure   Docker  •  Singularity  •  Git  •  AWS  •  HPC  •  Az
 ---
 
 ## 🔖 Featured Work
+**[ABC 123 Fun: Type screen for kids](https://dpaudel.github.io/kid-typing.html)** - Fun typing for kids - numbers & letters
 
 **[BLAST Circos Plot](https://devomiks.shinyapps.io/BlastCircos/)** - Shiny App to create Circos Plots from BLAST output
 
